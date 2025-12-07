@@ -1,0 +1,29 @@
+C:\Users\HONOR\source\repos\WpfApp9\WpfApp9\bin\Debug\WpfApp9.exe.config
+C:\Users\HONOR\source\repos\WpfApp9\WpfApp9\bin\Debug\WpfApp9.exe
+C:\Users\HONOR\source\repos\WpfApp9\WpfApp9\bin\Debug\WpfApp9.pdb
+C:\Users\HONOR\source\repos\WpfApp9\WpfApp9\obj\Debug\WpfApp9.csproj.AssemblyReference.cache
+C:\Users\HONOR\source\repos\WpfApp9\WpfApp9\obj\Debug\MainWindow.g.cs
+C:\Users\HONOR\source\repos\WpfApp9\WpfApp9\obj\Debug\App.g.cs
+C:\Users\HONOR\source\repos\WpfApp9\WpfApp9\obj\Debug\WpfApp9_MarkupCompile.cache
+C:\Users\HONOR\source\repos\WpfApp9\WpfApp9\obj\Debug\MainWindow.baml
+C:\Users\HONOR\source\repos\WpfApp9\WpfApp9\obj\Debug\WpfApp9.g.resources
+C:\Users\HONOR\source\repos\WpfApp9\WpfApp9\obj\Debug\WpfApp9.Properties.Resources.resources
+C:\Users\HONOR\source\repos\WpfApp9\WpfApp9\obj\Debug\WpfApp9.csproj.GenerateResource.cache
+C:\Users\HONOR\source\repos\WpfApp9\WpfApp9\obj\Debug\WpfApp9.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\source\repos\WpfApp9\WpfApp9\obj\Debug\WpfApp9.exe
+C:\Users\HONOR\source\repos\WpfApp9\WpfApp9\obj\Debug\WpfApp9.pdb
+C:\Users\L\Downloads\Telegram Desktop\wpf test\WpfApp9\WpfApp9\bin\Debug\WpfApp9.exe.config
+C:\Users\L\Downloads\Telegram Desktop\wpf test\WpfApp9\WpfApp9\bin\Debug\WpfApp9.exe
+C:\Users\L\Downloads\Telegram Desktop\wpf test\WpfApp9\WpfApp9\bin\Debug\WpfApp9.pdb
+C:\Users\L\Downloads\Telegram Desktop\wpf test\WpfApp9\WpfApp9\obj\Debug\WpfApp9.csproj.AssemblyReference.cache
+C:\Users\L\Downloads\Telegram Desktop\wpf test\WpfApp9\WpfApp9\obj\Debug\WpfApp9.exe.config
+C:\Users\L\Downloads\Telegram Desktop\wpf test\WpfApp9\WpfApp9\obj\Debug\MainWindow.baml
+C:\Users\L\Downloads\Telegram Desktop\wpf test\WpfApp9\WpfApp9\obj\Debug\MainWindow.g.cs
+C:\Users\L\Downloads\Telegram Desktop\wpf test\WpfApp9\WpfApp9\obj\Debug\App.g.cs
+C:\Users\L\Downloads\Telegram Desktop\wpf test\WpfApp9\WpfApp9\obj\Debug\WpfApp9_MarkupCompile.cache
+C:\Users\L\Downloads\Telegram Desktop\wpf test\WpfApp9\WpfApp9\obj\Debug\WpfApp9.g.resources
+C:\Users\L\Downloads\Telegram Desktop\wpf test\WpfApp9\WpfApp9\obj\Debug\WpfApp9.Properties.Resources.resources
+C:\Users\L\Downloads\Telegram Desktop\wpf test\WpfApp9\WpfApp9\obj\Debug\WpfApp9.csproj.GenerateResource.cache
+C:\Users\L\Downloads\Telegram Desktop\wpf test\WpfApp9\WpfApp9\obj\Debug\WpfApp9.csproj.CoreCompileInputs.cache
+C:\Users\L\Downloads\Telegram Desktop\wpf test\WpfApp9\WpfApp9\obj\Debug\WpfApp9.exe
+C:\Users\L\Downloads\Telegram Desktop\wpf test\WpfApp9\WpfApp9\obj\Debug\WpfApp9.pdb

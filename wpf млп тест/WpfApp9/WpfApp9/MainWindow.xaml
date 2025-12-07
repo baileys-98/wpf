@@ -1,0 +1,13 @@
+﻿<Window x:Class="mlpQuiz.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Star Wars Quiz" Height="470" Width="620">
+    <Grid Margin="12">
+        <StackPanel>
+          <TextBlock x:Name="QuestionText" FontSize="22" TextWrapping="Wrap" Margin="0 0 0 22"/>
+           <StackPanel x:Name="AnswersPanel" />
+            <Button Content="Ответить" Click="AnswerClick" Margin="0 22 0 0" Height="42"/>
+             <TextBlock x:Name="ResultText" FontSize="17" Margin="0 22 0 0"/>
+        </StackPanel>
+    </Grid>
+</Window>
